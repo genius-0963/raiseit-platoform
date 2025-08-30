@@ -1,24 +1,12 @@
-# Raise-It Platform
+# Complaint Management System
 
-A modern web application platform with client and server components.
+A web-based platform for managing and resolving public grievances through a systematic approach.
 
-## Project Structure
+## Project Status: In Development
 
-- `client/`: Frontend application
-- `server/`: Backend API services
+This project is currently under active development.
 
-## Development
-
-To run the client:
-```
-cd client
-npm install
-npm run dev
-```
-
-To run the server:
-```
-cd server
-npm install
-npm start
-```
+## Technologies Planned
+- Frontend: React.js
+- Backend: Node.js
+- Database: MongoDB
